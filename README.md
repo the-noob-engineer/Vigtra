@@ -11,3 +11,9 @@ This project is developed for learning purposes and as an experiment to see if I
 **Warning:** This software is not production-ready and has not been tested for real-world use cases. It is provided "as-is" without any guarantees or warranties. Use it at your own risk, and ensure thorough testing, validation, and compliance with relevant regulations before deploying it in any critical environment. The software may contain bugs, incomplete features, or other issues that could impact its functionality or reliability.
 
 **Note:** Contributions, feedback, and suggestions are welcome, but please keep in mind that this is a personal learning project. The primary goal is to explore and understand the complexities of health insurance software development, and as such, the project may not adhere to industry standards or best practices.
+
+
+## Setup
+
+- Backend code: [Backend Branch](https://github.com/Dawdaborje/Vigtra/tree/backend)
+- Frontend code: [Frontend Branch](https://github.com/Dawdaborje/Vigtra/tree/frontend)
