@@ -15,5 +15,5 @@ This project is developed for learning purposes and as an experiment to see if I
 
 ## Setup
 
-- Backend code: [Backend Source Code](https://github.com/Legacy-Engineers/vigtra_backend)
-- Frontend code: [Frontend Source Code](https://github.com/Legacy-Engineers/vigtra_frontend)
+- Backend code: [Backend Source Code](https://github.com/the-noob-engineer/vigtra-be)
+- Frontend code: [Frontend Source Code](https://github.com/the-noob-engineer/vigtra-fe)
